@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+#excuse {
+    font-size: 1.5rem;
+    color: #333;
+    font-weight: bold;
+}
